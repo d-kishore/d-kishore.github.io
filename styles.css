@@ -26,6 +26,7 @@ nav {
   gap: 20px;
 }
 
+.logo a,
 nav a {
   color: white;
   text-decoration: none;
@@ -34,7 +35,7 @@ nav a {
   align-items: center;
   transition: 0.3s;
 }
-
+.logo a:hover,
 nav a:hover {
   color: #e74c3c;
 }
